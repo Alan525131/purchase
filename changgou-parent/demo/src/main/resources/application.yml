@@ -1,0 +1,9 @@
+server:
+  port: 1243
+spring:
+  application:
+    name: test
+  redis:
+    host: 192.168.211.132
+    port: 6379
+    database: 4

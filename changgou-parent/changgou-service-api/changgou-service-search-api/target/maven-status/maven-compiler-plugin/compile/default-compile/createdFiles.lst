@@ -1,0 +1,3 @@
+com\changgou\search\pojo\LongToStringSerializer.class
+com\changgou\search\pojo\SkuInfo.class
+com\changgou\search\feign\SkuFeign.class
